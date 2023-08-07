@@ -12,9 +12,7 @@ public class Main {
         Ravenclaw choChang = new Ravenclaw("Cho Chang", 30, 50, 40, 50, 40, 30);
         Ravenclaw padmaPatil = new Ravenclaw("Padma Patil", 70, 60, 90, 60, 70, 90);
         Ravenclaw marcusBelby = new Ravenclaw("Marcus Belby", 60, 40, 80, 40, 50, 60);
-
         System.out.println(harryPotter);
-
         harryPotter.gryffindorComareTo(hermioneGranger);
         harryPotter.hogwartsComareTo(dracoMalfoy);
     }

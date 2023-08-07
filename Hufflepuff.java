@@ -18,7 +18,6 @@ public class Hufflepuff extends Hogwarts{
         } else {
             System.out.printf("%s хорош ровно так же, как и %s.\n", student.getName(), this.getName());
         }
-
     }
 
     public String toString() {
